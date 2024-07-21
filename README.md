@@ -1,2 +1,1 @@
-# BabyD
-# "O olhar que cuida."
+# BabyD: "O olhar que cuida."
