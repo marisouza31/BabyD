@@ -200,6 +200,8 @@ html, body {
   align-items: center; /* Centraliza o conteúdo horizontalmente */
   height: 100vh; /* Altura total da viewport */
   padding-top: 20px; /* Espaço no topo para o título "Sobre nós" */
+ width: 70%;
+  height: 70%;
 }
 
 .heading1 {
