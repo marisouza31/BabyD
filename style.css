@@ -188,6 +188,37 @@ section{
 /* fim da home */
 
 /* sobre nós */
+/* Para telas pequenas (menores que 768px) */
+@media (max-width: 768px) {
+  .heading1 {
+      font-size: 1.5rem;
+  }
+
+  .row {
+      flex-direction: column;
+      text-align: center;
+  }
+
+  .row img {
+      max-width: 80%;
+  }
+
+  .content {
+      max-width: 100%;
+  }
+}
+
+/* Para telas muito pequenas (menores que 480px) */
+@media (max-width: 480px) {
+  .heading1 {
+      font-size: 1.25rem;
+  }
+
+  .row img {
+      max-width: 100%;
+  }
+}
+
 
 html, body {
   height: 100%; /* Altura total da viewport */
@@ -195,6 +226,7 @@ html, body {
 }
 
 .about {
+  max-height: 70%;
   background: #9CE4FD;
   display: flex;
   flex-direction: column; /* Organiza o conteúdo verticalmente */
@@ -204,14 +236,14 @@ html, body {
 }
 
 .heading1 {
-  margin-bottom: 20px; /* Espaço abaixo do título "Sobre nós" */
+  margin-bottom: 4rem; /* Espaço abaixo do título "Sobre nós" */
 }
 
 .row {
   display: flex;
   align-items: center;
   justify-content: center; /* Centraliza o conteúdo dentro da row */
-  gap: 2rem; /* Espaço entre a imagem e o conteúdo */
+  gap: 3rem; /* Espaço entre a imagem e o conteúdo */
   width: 100%; /* Ocupa toda a largura do contêiner */
   max-width: 1200px; /* Limita a largura máxima para melhor visualização */
   padding: 0 2rem; /* Adiciona algum espaço nas laterais */
@@ -245,7 +277,6 @@ html, body {
   padding: 1rem 0;
   line-height: 1.6;
 }
-
 /* fim do sobre nós */
 
 /* objetivos */
