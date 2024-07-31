@@ -391,6 +391,18 @@ html, body {
 
 /* galeria */
 
+.pai{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: col;
+}
+
+.filho{
+  justify-content: center;
+  align-items: center;
+}
+
 .gallery{
   background: url(images/gallery-bg.png) no-repeat;
   background-size: cover; 
