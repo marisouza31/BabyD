@@ -37,20 +37,21 @@ Gostaríamos de agradecer a todos que visitaram o nosso repositório, caso queir
 
 Layara Miranda
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-%230E023B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/layara-miranda-405664299/?)
-[![Gmail](https://img.shields.io/badge/Gmail-%230C8249?style=for-the-badge&logo=gmail&logoColor=white)](mailto:layaramiranda61@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/layara-miranda-405664299/?)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:layaramiranda61@gmail.com)
 
 Mariana Ocireu
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-%230E023B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-ocireu-61aa722b3/?)
-[![Gmail](https://img.shields.io/badge/Gmail-%230C8249?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marianaocireu@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-ocireu-61aa722b3/?)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marianaocireu@gmail.com)
 
 Nicole Milanez
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-%230E023B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicole-milanez-127a16288/?)
-[![Gmail](https://img.shields.io/badge/Gmail-%230C8249?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nm4797100@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicole-milanez-127a16288/?)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nm4797100@gmail.com)
 
 ##
 
 Inspireted By - Luisa Santos 
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisa-s-823820278/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BDbTYdw%2FeSpiH%2Bgs%2BIhKEfQ%3D%3D)
