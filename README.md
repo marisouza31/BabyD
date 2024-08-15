@@ -3,6 +3,11 @@
 Repositório criado para armazenar o site do Trabalho de Conclusão de Curso apresentado ao Curso Técnico em Desenvolvimento de Sistemas da Etec Zona Leste 2024.
 ##
 
+# Link do GitPages
+
+[![SiteBabyD](https://img.shields.io/static/v1?label=SiteBabyD&message=AcesseAqui!&color=e2eaa9&style=for-the-badge&logo=ghost)](https://marisouza31.github.io/BabyD/)
+##
+
 <div align="justify">
   
 **O que é o BabyD?**
