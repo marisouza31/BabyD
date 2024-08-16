@@ -12,7 +12,7 @@ Repositório criado para armazenar o site do Trabalho de Conclusão de Curso apr
   
 **O que é o BabyD?**
 
-Uma solução que tem por objetivo desenvolver uma aplicação que usa de tecnologia de reconhecimento facial para auxilixar na manutenção da segurança das creches. Esse sistema permitirá que os responsaveis se cadastrem na plataforma com seus dados e fazer o escanner de sua face, assim, ao chegar na instituição para buscar a criança, o responsável fará o reconhecimento e podera retira-la. É um sistema agil e objetivo, onde o nosso maior objetivo é a precisão e o cuidado.
+Uma solução que tem por objetivo desenvolver uma aplicação que usa de tecnologia de reconhecimento facial para auxilixar na manutenção da segurança das creches. Esse sistema permitirá que os responsaveis se cadastrem na plataforma com seus dados e fazerem o escanner de sua face, assim, ao chegar na instituição para buscar a criança, o responsável fará o reconhecimento e podera retira-la. É um sistema agil e objetivo, onde o nosso maior objetivo é a precisão e o cuidado.
 
 </div>
 
