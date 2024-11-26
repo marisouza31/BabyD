@@ -176,6 +176,8 @@ section{
 
 .sobrenos .row .image{
   flex: 1 1 50rem;
+    display: flex;
+  justify-content: flex-end; 
 }
 
 .sobrenos .row .image img{
